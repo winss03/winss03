@@ -20,8 +20,8 @@ Un proyecto de SQL que modela la base de datos para una biblioteca. Incluye esqu
 ## Contacto
 Puedes encontrarme en:
 - [GitHub] (https://github.com/winss03)
-- [LinkedIn](www.linkedin.com/in/windsoram)
-- [Correo Electrónico](windosr.10.7@gmail.com)
+- [LinkedIn] (www.linkedin.com/in/windsoram)
+- [Correo Electrónico] (windosr.10.7@gmail.com)
 
 ¡Gracias por visitar mi perfil!
 
