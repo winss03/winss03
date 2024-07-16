@@ -1,7 +1,7 @@
 ### Hi there 👋
 # ¡Hola, soy Windsor!
 
-<img src="istockphoto-1445186413-2048x2048.jpg" alt="Foto de perfil" align="right">
+<img src="istockphoto-1445186413-2048x2048.jpg" alt="Foto de perfil" align="right" width="200">
 
 Soy estudiante de grado en **Desarrollo de Aplicaciones Multiplataforma**. Me apasiona la tecnología y estoy siempre buscando aprender más y mejorar mis habilidades. Aquí te dejo un poco sobre mí y mis intereses:
 
