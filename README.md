@@ -6,9 +6,9 @@
 Soy estudiante de grado en **Desarrollo de Aplicaciones Multiplataforma**. Me apasiona la tecnología y estoy siempre buscando aprender más y mejorar mis habilidades. Aquí te dejo un poco sobre mí y mis intereses:
 
 ## Habilidades
-- **Lenguajes de Programación**: Java, SQL
-- **Tecnologías**: Git, GitHub, HTML, CSS
-- **Intereses**: Desarrollo de aplicaciones móviles, desarrollo web, bases de datos
+- **Lenguajes de Programación**: Java 🚀, SQL 📊
+- **Tecnologías**: Git 🐱‍💻, GitHub 🌟, HTML 🌐, CSS 🎨
+- **Intereses**: Desarrollo de aplicaciones móviles 📱, desarrollo web 🌐, bases de datos 📚
 
 ## Proyectos Destacados
 ### [Proyecto 1: Aplicación de Gestión de Tareas](https://github.com/tu-usuario/proyecto-gestion-tareas)
