@@ -17,7 +17,7 @@ Una aplicación simple de gestión de tareas desarrollada en Java. Permite a los
 ### [Proyecto 2: Base de Datos para una Biblioteca](https://github.com/tu-usuario/proyecto-biblioteca)
 Un proyecto de SQL que modela la base de datos para una biblioteca. Incluye esquemas, relaciones y consultas SQL.
 
-## Contacto
+## Contacto 📫
 Puedes encontrarme en:
 - [GitHub] https://github.com/winss03 🐱‍👤
 - [LinkedIn] www.linkedin.com/in/windsoram 🔗
